@@ -1,0 +1,29 @@
+{
+  "name": "al-fateem",
+  "version": "1.0.0",
+  "description": "bootstrap 5 ",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bootstrap with sass"
+  },
+  "keywords": [
+    "Learning",
+    "bootstrap",
+    "5"
+  ],
+  "author": "Farwa Faizan",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.63.6"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "^5.3.0",
+    "postcss-cli": "^10.1.0"
+  }
+}
